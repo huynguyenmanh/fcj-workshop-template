@@ -42,7 +42,7 @@ During my internship, I participated in three events. Each one was a memorable e
 &emsp;**Role:** Attendee  
 
 
-### [Event 3](4.2-Event3/)  
+### [Event 3](4.3-Event3/)  
 &emsp;**Event Name:** FJAC - Agentic AI Build Week
 
 &emsp;**Date & Time:** 09:00, July 15, 2026  

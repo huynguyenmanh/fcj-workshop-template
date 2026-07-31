@@ -42,7 +42,7 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-### [Event 3](4.2-Event3/)
+### [Event 3](4.3-Event3/)
 &emsp;**Tên sự kiện:** FJAC - Agentic AI Build Week
 
 &emsp;**Thời gian:** 09:00 ngày 25/07/2026
